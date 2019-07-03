@@ -1,0 +1,10 @@
+Dog dog1 nana dorado shitzu
+Andres 1303323591
+Cat cat1 daniela negro true 
+Maria 39735679
+Hamster hamster1 carlos cafe 5.7
+Andres 1303323591
+Dog dog1 zlatam negro Bernese
+Fabian 123456
+Cat cat1 checa blamco false
+Maria 39735679
